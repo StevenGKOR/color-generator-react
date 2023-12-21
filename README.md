@@ -1,11 +1,23 @@
-Color Generator is a React web application that generates random color palettes and shades.
-The application is built using React.js and utilizes the chroma.js library for color manipulation.
+# Color Generator React
 
-With this app, users can generate random color palettes, adjust the lightness and saturation of the colors, and copy the generated colors to their clipboard. 
-The application provides multiple shades for each color in the palette, allowing for easy color coordination and selection.
+## Introduction
+A React application for generating and manipulating color palettes using chroma.js.
 
-Color Generator is an intuitive and easy-to-use application, with a clean and modern user interface. 
-It is a great tool for designers, artists, and anyone looking for inspiration or assistance in choosing colors for their projects.
+## Features
+- Generate random color palettes.
+- Adjust lightness and saturation of colors.
+- Copy color values to clipboard.
+- Multiple shades for each color.
 
-Making it easy for developers to customize and build upon the existing functionality. 
-The project uses modern development practices such as React Hooks and functional components, and is built with scalability and maintainability in mind.
+## Technologies
+- React.js, chroma.js.
+
+## Installation
+1. Clone the repository: `git clone https://github.com/StevenGKOR/color-generator-react.git`.
+2. Install dependencies: `npm install`.
+3. Start the application: `npm start`.
+
+## Usage
+Ideal for designers and artists to create and explore color palettes.
+
+[GitHub Repository](https://github.com/StevenGKOR/color-generator-react)
